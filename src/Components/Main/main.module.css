@@ -1,0 +1,27 @@
+.photoSection{
+   width: 100%;
+   background: rgb(233, 233, 233);
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+
+}
+.basketsSection{
+   width: 100%;
+   height: 250px;
+   background: rgb(231, 231, 231);
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.basket1,.basket2{
+   width: 35%;
+   height: 180px;
+   background: rgb(46, 43, 250);
+   border-radius: 30px;
+}
+.img{
+   width: 150px;
+   height: 150px;
+   margin: 10px;
+}
